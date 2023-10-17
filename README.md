@@ -25,4 +25,5 @@ The publications of Tsinghua new media team.
 
 # Contact Us
 Repo maintainer: Yajie Hao <haoyajie930128@gmail.com>
+
 Technical maintainer: Leo Lu <dearsuley@gmail.com>
